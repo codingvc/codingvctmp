@@ -1,0 +1,14 @@
+---
+layout: page
+title: Tags
+---
+
+<ul class="tags">
+    {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+    <li><a href="{{site.url}}tag/{{t | downcase | replace:" ","-" }}">{{t}}</a></li>
+    {% endfor %}
+</ul>
+

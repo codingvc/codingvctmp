@@ -1,0 +1,46 @@
+---
+layout: page
+title: Best Of
+---
+
+## Data Analyses
+
+* <a href="http://codingvc.com/which-technologies-do-startups-use-an-exploration-of-angellist-data" target="_blank">Which technologies do startups use?</a>
+* <a href="http://codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks" target="_blank">Salary/equity benchmarks for different job roles and company sizes</a>
+* <a href="http://codingvc.com/the-effect-of-location-on-a-startups-likelihood-of-success" target="_blank">The relationship between a startup's location and its chances of success</a>
+
+## The Value of Data
+
+* <a href="http://codingvc.com/the-value-of-data-part-1-using-data-as-a-competitive-advantage" target="_blank">The Value of Data, Part 1: Using data as a competitive advantage</a>
+* <a href="http://codingvc.com/the-value-of-data-part-2-building-valuable-datasets" target="_blank">The Value of Data, Part 2: Building valuable datasets</a>
+* <a href="http://codingvc.com/the-value-of-data-part-3-data-business-models" target="_blank">The Value of Data, Part 3: Data business models</a>
+
+## Seed Stage Logistics
+
+* <a href="http://codingvc.com/investor-update-email-template" target="_blank">How to write start-up updates</a>, <a href="http://codingvc.com/do-founders-get-value-from-investor-updates" target="_blank">why these updates are valuable to founders</a>, and <a href="http://codingvc.com/extracting-more-value-from-investors" target="_blank">how to get even more value out of them</a>.
+* <a href="http://codingvc.com/early-stage-startup-mistakes" target="_blank">Common early stage startup mistakes</a>
+
+## Pitching and Fundraising
+
+* Tips for demo day pitches (<a href="http://codingvc.com/demo-day-pitching-part-1-common-problems/" target="_blank">part 1</a>, <a href="http://codingvc.com/demo-day-pitching-part-2-telling-a-story/" target="_blank">part 2</a>)
+* <a href="http://codingvc.com/what-movies-can-teach-you-about-pitching-to-investors" target="_blank">An analogy between startup pitches and movies</a>
+
+## Fundraising
+
+* <a href="http://codingvc.com/an-algorithm-for-seed-round-valuations" target="_blank">An algorithm for going through the fundraising process</a>
+* <a href="http://codingvc.com/ten-tips-for-raising-money-from-vcs" target="_blank">General fundraising tips</a>
+* <a href="http://codingvc.com/fundraising-roadmap-algorithm" target="_blank">Viewing your round from an investor's point of view</a>
+* <a href="http://codingvc.com/5-tips-for-saas-roadmap-planning" target="_blank">Making sure your roadmap for getting to the next round is realistic</a>
+
+## Book/talk notes
+
+* <a href="http://codingvc.com/extensive-notes-from-salesconf" target="_blank">Notes from SalesConf</a> (useful even if you have no experience with sales)
+* <a href="http://codingvc.com/the-art-of-profitability" target="_blank">Notes on the book The Art of Profitability</a> (which covers a lot of business models)
+* <a href="http://codingvc.com/talk-summary-building-great-data-products/" target="_blank">Notes on a talk by DJ Patil: Building Great Data Products</a>
+
+## Misc
+
+* <a href="http://codingvc.com/the-road-to-success-is-paved-with-discomfort" target="_blank">The road to success is paved with discomfort</a>
+* <a href="http://codingvc.com/valuing-employee-options" target="_blank">Valuing stock options</a> (from an employee's perspective)
+* <a href="http://codingvc.com/taking-time-off" target="_blank">The value of taking time off</a>
+* <a href="http://codingvc.com/an-open-letter-to-demo-day-startups" target="_blank">An open letter to demo day startups</a>

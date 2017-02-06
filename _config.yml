@@ -1,0 +1,42 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+timezone:         'Greenwich'
+
+# Permalinks
+permalink:        :title/
+#relative_permalinks: true
+
+# Setup
+title:            'Coding VC'
+tagline:          'A blog by Leo Polovets'
+description:      'Startups and startup investing from the perspective of a software engineer turned VC.'
+baseurl:          '/'
+url:              'https://codingvc.com/'
+
+author:
+  name:           'Leo Polovets'
+  url:            https://twitter.com/lpolovets
+
+paginate:         5
+paginate_path:    "/page/:num/"
+
+gems:
+  - jekyll-archives
+  - jekyll-paginate
+
+# https://github.com/laurilehmijoki/s3_website
+# http://markitdown.medusis.com/
+# https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+jekyll-archives:
+  enabled: ['year', 'month', 'tags']
+  layouts:
+    year: year-archive
+    month: month-archive
+    tag: tag-archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    tag: '/tag/:name/'
+

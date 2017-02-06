@@ -1,0 +1,30 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>{{ site.title }}</title>
+ <link href="{{ site.url }}atom.xml" rel="self"/>
+ <link href="{{ site.url }}"/>
+ {% assign unprinted = true %}   
+ {% for post in site.posts %}{% if unprinted %}<updated>{{ post.date | date_to_xmlschema }}</updated> {% assign unprinted = false %}{% endif %}{% endfor %}
+ <id>{{ site.url }}</id>
+ <author>
+   <name>{{ site.author.name }}</name>
+   <email>{{ site.author.email }}</email>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+     {% capture share_url %}{{ site.url }}123!@#{{ post.url | append: 'asdasdasd' | remove_first: '/asdasdasd'}}{% endcapture %}
+   <link href="{{ share_url | replace: '/123!@#/', '/'}}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ share_url | replace: '/123!@#/', '/'}}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>

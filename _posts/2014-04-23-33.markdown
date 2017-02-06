@@ -1,0 +1,27 @@
+---
+layout: post
+date: 2014-04-23 03:10:00
+title: "33"
+---
+
+I turn 33 years old today, and I've been thinking about how much the world has changed during my lifetime. The changes have been especially dramatic in the context of technology, which made incredible progress during each of the last three decades.
+
+### Technology in the 1980s
+
+When I was 3 years old, I was growing up in Russia. My family was upper middle class, which meant we were among the 15% of families who had cars, and we had a TV which offered three or four channels. Instead of playing video games, the kids all played with knives. (Don't ask.)
+
+### Technology in the 1990s
+
+When I was 13 years old, I had just gotten my first computer and my family was about to sign up for American Online. AOL was basically "The Internet" in the mid-90s. I still remember TV commercials where instead of mentioning their URLs, companies would advertise their AOL keywords. Around this time, cell phones were just starting to become truly mainstream, and pagers were still "a thing." (Don't laugh.)
+
+### Technology in the 2000s
+
+When I was 23 years old, almost everyone had a cell phone, broadband was beginning to overtake dial-up, and Netflix was sending out millions of DVDs every month. I recall buying IBM ViaVoice and having to train it for a few hours in order to get 90% accurate voice dictation on my desktop. If you wanted to start a tech company, you would've had to raise a few million dollars, buy a bunch of servers, and hire a significant team right out of the gate. (Don't hold your breath.)
+
+### Technology Today
+
+Now I'm 33 years old, and the last decade has seen the advent of (commercially available) electric cars, touch screen phones that are so easy to use that 2-year-olds can handle them, magically good voice interfaces that can answer everyday natural language questions, and more and more connected devices (thermostats, door locks, pedometers, security cameras, and so on). DVDs are largely a thing of the past, and I can start streaming almost any song, movie, or book to my tablet in less than a minute. If I have a gadget idea, I can prototype it with a 3D printer and add an inexpensive <a href="https://www.spark.io/" target="_blank">wi-fi board</a> to connect it to the internet. If I want to start a tech company, I can use open source software, cloud infrastructure, and services like Paypal and ZenDesk to get started for a few hundred dollars. Tech companies are going from 0 to billions of dollars in value in a few years. I think all of this is simply incredible.
+
+### Technology is Badass
+
+People keep talking about tech companies' high valuations and wondering if this is a bubble. Personally, I think valuations are high but usually justifiable. But to be honest, I'm not sure how much the financial side matters. While it's easy to look at the latest acquisition and wonder if it's truly worth $19b, I think that's missing the bigger picture. We're living in an amazing period of time, largely thanks to technology. Our lives are improving in almost every aspect, and they're improving so quickly! I can't wait to see what the next decade of progress brings.

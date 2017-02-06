@@ -1,0 +1,47 @@
+BLOG TODOs
+
+verify that EVERY old blog post link works
+
+ask partners and a few friends waht they think of layout. sean byrnes?
+verify that email subs, comments, etc all work
+figure out how to push new version to S3
+
+improve structure of tags/archives/ways i can help/etc
+
+migrate!!
+
+ cd /home/leo/programming/codingvc; \
+    rm -rf _site; \
+    jekyll build --config _config_s3.yml; \
+    cd _site; \
+    s3cmd del -r --force s3://codingvc; \
+    s3cmd  put --recursive * s3://codingvc
+
+1) BRING EMAIL LINK TO HEADER AND FOOTER OF WEBPAGE
+2) STRUCTURAL ADVANTAGES:
+all things being equal, these are freebie advantages outside of product innovation:
+- prepayment
+- better pricing http://tomtunguz.com/three-part-tariffs/ etc
+- mission?
+
+
+
+
+
+
+
+One of my fave mathematical techniques is "reduction to absurdity."
+
+Survivor Bias:
+ex1:
+Person 1: Hey it looks like all gold medal winners in archery are human, so being human is the key to winning gold.
+P2: Thats stupid -- all of the non-record holders are human, too.
+
+ex2:
+P1: Hey it looks like all of our best customers are Series C startups, we should purse more customers like that
+P2: Great idea! [oops -- turns out all of the worst, most painful customers are Series C, too]
+
+flying-cars-twitter-and-50-reasons-to-be-excited-about-tech
+
+
+Tough business models

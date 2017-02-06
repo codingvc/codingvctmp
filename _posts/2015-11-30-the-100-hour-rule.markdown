@@ -1,0 +1,35 @@
+---
+layout: post
+date: 2015-11-30 15:30:00
+title: "The 100-Hour Rule"
+---
+
+A recently popularized meme is the <a href="http://www.wisdomgroup.com/blog/10000-hours-of-practice/" target="_blank">10,000-Hour Rule</a>, which describes the amount of time required to achieve mastery of a field. This rule has several implications:
+
+1. Since the required time commitment is so high -- three hours per day for a decade! -- a person can only master a few things in their lifetime.
+1. Because time moves at the same speed for everyone, you can't accelerate the acquisition of mastery. If you've mastered something (e.g. sales or programming or product management) and your competition has not, that's a huge competitive advantage.
+1. The commitment for mastery is so high that a lot of people become intimidated and give up early -- or never even begin. For every violin virtuoso, there are many more people that quit after a few lessons, or who never picked up a violin in the first place.
+
+Mastery of various disciplines is very important for startups. A typical startup has many areas it has to handle well, including software engineering, user experience design, product strategy, sales and marketing, and recruiting. Failing in any one of these areas can be enough to cause the whole company to fail. For example, if founders can't recruit a good team efficiently, then they won't have the resources to implement their plans, regardless of how brilliant those plans may be. Or, if the founders can build a useful product but it's not user friendly or aesthetically appealing, then the product usually struggles to get traction. Of course there are exceptions (e.g. Craigslist and its old school UI), but they are... well, exceptional.
+
+This poses a dilemma: few founding teams have mastered each of the five or ten areas critical to their success, but it takes a long time to achieve that mastery.
+
+To address this dilemma, I'd like to propose **the 100-Hour Rule**:
+
+> For most disciplines, it only takes one hundred hours of active learning to become much more competent than an absolute beginner.
+
+For example:
+
+- Cooking: it takes years to become a master chef, but one hundred hours of cooking lessons and classes and deliberate practice will make you a better cook than most of your friends.
+- Coding: it takes years of study and practice to become a strong software engineer, but going through a couple of Codecademy or Udacity courses will make you a good enough programmer for a lot of basic applications.
+- Sales: it takes years of experience to become great at sales, but reading a few key books and shadowing experienced sales people for several hours will help you learn enough to avoid the most common/dangerous sales mistakes.
+
+The sales example is something I've experienced personally. Before becoming a VC, I was a software engineer for ten years. I never interacted with the sales side of a business and didn't know the first thing about it. Once I moved to the investing side, I quickly learned that the bottlenecks for most companies were sales/marketing/customer acquisition, and not technology. As a result, I've tried to educate myself on sales and related fields. I've read books like <a href="http://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS/" target="_blank">Traction</a> and gone to conferences like <a href="http://salesconf.com/" target="_blank">SalesConf</a> (<a href="http://codingvc.com/extensive-notes-from-salesconf/" target="_blank">notes</a>). I've probably invested 50 or 100 hours into learning sales. What's the result? While I'd still pale compared to any experienced salesperson, I've picked up enough to know more than many non-salespeople. I now know that most software products should be <a href="https://en.wikipedia.org/wiki/Value-based_pricing" target="_blank">priced based on value and not cost</a>, that it's better to <a href="http://www.helpscout.net/blog/benefits-sell/" target="_blank">talk about benefits instead of features</a>, and that the most important part of sales is <a href="http://under30ceo.com/sell-by-listening-how-startups-should-be-selling/" target="_blank">listening to what customers want instead of telling them what you have</a>. If an expert salesperson can turn 80% of prospects into sales while a newbie can only close 10%, I'd probably be at 30% or 40% right now. Far from what the expert can do, but way more effective than the newbie. That's a great ROI for 1-2 weeks of full-time learning.
+
+A few observations about the 100-Hour Rule:
+
+- While "100" is an easy-to-remember round number, it's just an approximation. Some fields might require ten or twenty hours to achieve a level of medium competence, while other fields might require several hundred hours. Either way, that's much less than the 10,000 hours required for full mastery.
+- The 10,000-Hour Rule is based on absolute knowledge -- it takes about that long to learn a field inside and out. In contrast, the 100-Hour Rule is based on relative knowledge. Since 95+% of people don't know _anything_ about most fields, it takes very little time to jump from "the naive 95%" to the 96th percentile. The long part of the journey is moving from the 96th percentile to the 99.9th.
+- As with the 10,000 Hour Rule, learning has to be active and deliberate. That is, you're not just skimming a book or mindlessly practicing the motions of some technique, you're reading and practicing with the deliberate goal of learning and improvement.
+
+To tie all of these observations back to building companies, make a list of the areas where your company will have to excel in order to succeed (sales, engineering, UI design, knowledge of a specific domain, and so on). If your team lacks experience in some of those areas, don't just wing it and hope for the best. Invest a little bit of time into learning and basic competence so that you don't hamstring yourself by making rookie, easily avoidable mistakes. In the long run, you'll want to hire experts; in the short run, invest enough time into learning so that you can adequately fill any critical gaps.
